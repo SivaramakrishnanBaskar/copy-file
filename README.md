@@ -36,7 +36,7 @@ with open("File2.txt","w") as fp1:
 ```
 
 ### OUTPUT:
-![image](https://github.com/SivaramakrishnanBaskar/copy-file/assets/119476322/3503288c-b652-400c-9cc0-34f8fd7845a3)
+![image](https://github.com/SivaramakrishnanBaskar/copy-file/assets/119476322/d7157a69-9f0f-40bc-ba56-2b48b58afafb)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
